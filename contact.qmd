@@ -1,0 +1,16 @@
+---
+title: ""
+format: html
+---
+
+::: {.text-center}
+|
+|
+| If you have any doubts or questions, please get in touch with us at:
+|  
+| **k.johnson@creaf.cat**
+|
+|
+:::
+
+![](images/flohra2.png)

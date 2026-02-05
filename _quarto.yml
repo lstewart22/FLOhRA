@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  search: false
+  navbar:
+    logo: "images/title.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+      - href: submission.qmd
+        text: Submission
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    center: FLOh!RA Copyright 2026
+    border: true
+    background: dark
+
+format:
+  html:
+    theme: pulse
+    backgroundcolor: "#F6EDDE"
+    fonts:
+        heading: "Montserrat"
+        body: "Inter"
+
+
+

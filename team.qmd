@@ -1,0 +1,38 @@
+---
+title: ""
+format: html
+---
+
+## ![](images/flohra.png){height=40px} Organisers 
+
+:::: {layout="[ 50, 50 ]"}
+::: {#left-column}
+#### **Kate Johnson** 
+![](images/Kate.png)
+:::
+
+::: {#right-column}
+#### **Laura Stewart** 
+![](images/Laura2.png)
+:::
+::::
+
+:::: {layout-ncol=2}
+
+::: {#left-column}
+Kate grew up in beautiful lutruwita/Tasmania, Australia with a passion for nature. After completing her university studies in plant science at the University of Tasmania Kate has worked a postdoctoral researcher in the USA, Switzerland and now in Barcelona. Kate is interested in understanding what makes plants vulnerable or resistant to climatic extremes in the context of climate change. As a [Marie Skłodowska-Curie postdoctoral researcher at CREAF](https://www.creaf.cat/en/about-us/our-people/kate-johnson){target="_blank"}, she researches how variation in characteristics within plants may be related to the ability of plants to survive drought. Kate is also an artist with deep interests in science communication and the connection between science and art. She co-manages a volunteer-run, award winning podcast and science communication platform; [That’s What I Call Science](https://thatsscience.org/){target="_blank"}, collaborates with artists and loves painting and writing poetry. 
+:::
+
+::: {#right-column}
+Laura grew up in Ibiza and the Isle of Man, surrounded by sea and countryside. After completing a Masters in environmental health protection at the University of Birmingham, Laura returned to her first home, Spain, to complete a second Masters in plant science at the Autonomous University of Barcelona. Pursuing her interest in climate change and its detrimental effect on nature, Laura became a [pre-doctoral researcher in CREAF](https://www.creaf.cat/en/about-us/our-people/laura-wynne-stewart){target="_blank"} investigating the coordination and scaling of water relations in forests under drought stress using remote sensing technologies including satellite imagery and terrestrial laser scanning. Aside from science, Laura has a deep connection with the outdoors through rock climbing, hiking and camping. She is also an avid reader and writer, enjoying writing short stories and poems with a particular focus on the climate and our place in the world. 
+:::
+
+::::
+
+## ![](images/flohra.png){height=40px} Design & Advertising
+
+#### CREAF Communications Team 
+
+## ![](images/flohra.png){height=40px} Judges 
+
+#### TBC 
