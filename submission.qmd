@@ -6,19 +6,20 @@ format: html
 ::: {.text-center}
 | 
 |
-| If you are 14 years or younger, attach the [Consent Form](FLOh!RA Consent Form_English.docx) along with your work.
 | Si tens 14 anys o menys, adjunta el [Formulari de Consentiment](FLOh!RA Consent Form_Català.docx)
  juntament amb la teva obra.
 | Si tienes 14 años o menos, adjunta el [Formulario de Consentimiento](FLOh!RA Consent Form_Español.docx) junto con tu obra.
+| If you are 14 years or younger, attach the [Consent Form](FLOh!RA Consent Form_English.docx) along with your work.
 |
-| Submit your work here/ Envía tu obra aquí/ Envia la teva obra aquí:
+| Envia la teva obra aquí/ Envía tu obra aquí/ Submit your work here:
 | 
 |  
 | [![](images/flohra.png){height=70px}](https://docs.google.com/forms/d/e/1FAIpQLSchBV1-xdOZFLWTLAMBMfe6qkWbJxEYUnSsnzgRwkTEXaqKEw/viewform){target="_blank"}
 
 |
 |
-| Submissions will be accepted until the 6th of April 2026.
 | Les obres s’acceptaran fins al 6 d’abril de 2026.
 | Las obras se aceptarán hasta el 6 de abril de 2026.
+| Submissions will be accepted until the 6th of April 2026.
+
 :::
