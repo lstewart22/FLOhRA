@@ -21,5 +21,4 @@ format: html
 | Les obres s’acceptaran fins al 6 d’abril de 2026.
 | Las obras se aceptarán hasta el 6 de abril de 2026.
 | Submissions will be accepted until the 6th of April 2026.
-
 :::

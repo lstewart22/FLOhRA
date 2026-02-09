@@ -9,15 +9,15 @@ website:
     logo: "images/title.png"
     left:
       - href: index.qmd
-        text: Home
+        text: Inici
       - href: about.qmd
-        text: About
+        text: Sobre
       - href: team.qmd
-        text: Team
+        text: Equip
       - href: submission.qmd
-        text: Submission
+        text: Presentació
       - href: contact.qmd
-        text: Contact
+        text: Contacte
   page-footer: 
     center: FLOh!RA Copyright 2026
     border: true

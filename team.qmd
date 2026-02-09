@@ -3,7 +3,7 @@ title: ""
 format: html
 ---
 
-## ![](images/flohra.png){height=40px} Organisers 
+## ![](images/flohra.png){height=40px} Organitzadores 
 
 :::: {layout="[ 50, 50 ]"}
 ::: {#left-column}
@@ -20,19 +20,19 @@ format: html
 :::: {layout-ncol=2}
 
 ::: {#left-column}
-Kate grew up in beautiful lutruwita/Tasmania, Australia with a passion for nature. After completing her university studies in plant science at the University of Tasmania Kate has worked a postdoctoral researcher in the USA, Switzerland and now in Barcelona. Kate is interested in understanding what makes plants vulnerable or resistant to climatic extremes in the context of climate change. As a [Marie Skłodowska-Curie postdoctoral researcher at CREAF](https://www.creaf.cat/en/about-us/our-people/kate-johnson){target="_blank"}, she researches how variation in characteristics within plants may be related to the ability of plants to survive drought. Kate is also an artist with deep interests in science communication and the connection between science and art. She co-manages a volunteer-run, award winning podcast and science communication platform; [That’s What I Call Science](https://thatsscience.org/){target="_blank"}, collaborates with artists and loves painting and writing poetry. 
+La Kate va créixer a la preciosa lutruwita/Tasmania, Austràlia, amb una gran passió per la natura. Després de completar els seus estudis universitaris en ciències vegetals a la Universitat de Tasmània, la Kate ha treballat com a investigadora postdoctoral als EUA, a Suïssa i actualment a Barcelona. La Kate està interessada a entendre què fa que les plantes siguin vulnerables o resistents als extrems climàtics en el context del canvi climàtic. Com a [investigadora postdoctoral Marie Skłodowska-Curie al CREAF](https://www.creaf.cat/en/about-us/our-people/kate-johnson){target="_blank"}, investiga com la variació en les característiques dins de les plantes pot estar relacionada amb la capacitat de les plantes per sobreviure a la sequera. La Kate també és artista, amb un profund interès en la comunicació científica i en la connexió entre la ciència i l’art. Codirigeix un pòdcast i una plataforma de comunicació científica gestionats per voluntariat i guardonats, [That’s What I Call Science](https://thatsscience.org/){target="_blank"}, col·labora amb artistes i li encanta pintar i escriure poesia.
 :::
 
 ::: {#right-column}
-Laura grew up in Ibiza and the Isle of Man, surrounded by sea and countryside. After completing a Masters in environmental health protection at the University of Birmingham, Laura returned to her first home, Spain, to complete a second Masters in plant science at the Autonomous University of Barcelona. Pursuing her interest in climate change and its detrimental effect on nature, Laura became a [pre-doctoral researcher in CREAF](https://www.creaf.cat/en/about-us/our-people/laura-wynne-stewart){target="_blank"} investigating the coordination and scaling of water relations in forests under drought stress using remote sensing technologies including satellite imagery and terrestrial laser scanning. Aside from science, Laura has a deep connection with the outdoors through rock climbing, hiking and camping. She is also an avid reader and writer, enjoying writing short stories and poems with a particular focus on the climate and our place in the world. 
+La Laura va créixer a Eivissa i a l’Illa de Man, envoltada de mar i de natura. Després de completar un màster en protecció de la salut ambiental a la Universitat de Birmingham, la Laura va tornar a la seva primera llar, Espanya, per cursar un segon màster en ciències vegetals a la Universitat Autònoma de Barcelona. Seguint el seu interès pel canvi climàtic i els seus efectes perjudicials sobre la natura, la Laura es va convertir en [investigadora predoctoral al CREAF](https://www.creaf.cat/en/about-us/our-people/laura-wynne-stewart){target="_blank"}, on investiga la coordinació i l’escalat de les relacions hídriques als boscos sota estrès per sequera mitjançant tecnologies de teledetecció, incloent imatges per satèl·lit i escaneig làser terrestre. A banda de la ciència, la Laura té una profunda connexió amb l’aire lliure a través de l’escalada en roca, el senderisme i l’acampada. També és una lectora i escriptora apassionada, i gaudeix escrivint relats curts i poemes, amb un enfocament especial en el clima i el nostre lloc al món.
 :::
 
 ::::
 
-## ![](images/flohra.png){height=40px} Design & Advertising
+## ![](images/flohra.png){height=40px} Disseny i Publicitat
 
-#### CREAF Communications Team 
+#### Equip de Comunicació del CREAF
 
-## ![](images/flohra.png){height=40px} Judges 
+## ![](images/flohra.png){height=40px} Jurat
 
-#### TBC 
+#### Per determinar

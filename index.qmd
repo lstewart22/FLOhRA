@@ -5,6 +5,25 @@ title: ""
 ![](images/flohra2.png)
 
 ::: {.text-center}
+## When was the last time you noticed a plant? 
+:::
+Most of us live in cities full of other people, where there is little space for nature to exist alongside us. But plants are still all around us. Take a look out your window. What trees do you see? When you’re walking to school or work, what flowers can you find growing through the cracks? 
+
+These leafy, green organisms — scientifically known as Flora — have been shaping the planet we call home for millions of years. The land we walk on, the air we breathe, the water we drink. 
+
+But all this is changing. 
+
+Climate change is forcing our Flora to change: hotter temperatures, unpredictable rainfall, more floods. Deforestation to build cities, roads and factories. Habitat degradation because of war and resource exploitation. All of these things are putting pressure on Flora but in spite of it all, our leafy relatives show resilience. 
+
+So, take a moment to notice a plant, a flower or a tree. What do you see? 
+
+This  competition is a celebration of Flora — its past, present and future — and the deep connection that we share with our natural world. 
+
+Click [here](about.qmd) to find out more about entry requirements and key dates! 
+
+![](images/border4.png)
+
+::: {.text-center}
 ## Quan va ser l’última vegada que et vas fixar en una planta?
 :::
 La majoria de nosaltres vivim en ciutats plenes d’altres persones, on hi ha poc espai perquè la natura pugui existir al nostre costat. Però les plantes continuen sent arreu nostre. Mira per la finestra. Quins arbres veus? Quan camines cap a l’escola o la feina, quines flors pots trobar creixent entre les esquerdes?
@@ -39,23 +58,3 @@ Así que tómate un momento para observar una planta, una flor o un árbol. ¿Qu
 Este concurso es una celebración de la Flora — su pasado, presente y futuro — y de la profunda conexión que compartimos con nuestro mundo natural.
 
 ¡Haz clic [aquí](about.qmd) para obtener más información sobre los requisitos de participación y las fechas claves!
-
-![](images/border4.png)
-
-::: {.text-center}
-## When was the last time you noticed a plant? 
-:::
-Most of us live in cities full of other people, where there is little space for nature to exist alongside us. But plants are still all around us. Take a look out your window. What trees do you see? When you’re walking to school or work, what flowers can you find growing through the cracks? 
-
-These leafy, green organisms — scientifically known as Flora — have been shaping the planet we call home for millions of years. The land we walk on, the air we breathe, the water we drink. 
-
-But all this is changing. 
-
-Climate change is forcing our Flora to change: hotter temperatures, unpredictable rainfall, more floods. Deforestation to build cities, roads and factories. Habitat degradation because of war and resource exploitation. All of these things are putting pressure on Flora but in spite of it all, our leafy relatives show resilience. 
-
-So, take a moment to notice a plant, a flower or a tree. What do you see? 
-
-This  competition is a celebration of Flora — its past, present and future — and the deep connection that we share with our natural world. 
-
-Click [here](about.qmd) to find out more about entry requirements and key dates! 
-

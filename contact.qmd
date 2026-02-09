@@ -6,12 +6,11 @@ format: html
 ::: {.text-center}
 |
 |
-| Si teniu cap dubte o pregunta, poseu-vos en contacte amb nosaltres a:
+| Si tens algun dubte o pregunta, posa't en contacte amb nosaltres a:
 |  
 | **k.johnson@creaf.cat**
 |
 |
 :::
-
 
 ![](images/flohra2.png)

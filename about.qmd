@@ -98,5 +98,4 @@ A celebration evening will be held on the 18th of May (location TBC). At this ev
 ![](images/border4.png)
 
 ### Funding
-
 This project is funded by the European Union through a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral fellowship, 101107177—IVERdrought awarded to Kate Johnson. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or the MSCA. Neither the European Union nor the granting authority can be held responsible for them. 
