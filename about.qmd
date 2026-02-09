@@ -4,42 +4,6 @@ format: html
 ---
 
 ::: {.text-center}
-#### ![](images/flohra.png){height=40px} is an **art-science competition** celebrating the idea that plants are **dynamic and sensitive living beings** that are constantly **changing with their environment**.
-:::
-
-Plants change from instant-to-instant and season-to-season,  responding to touch, light, temperature and more. Beyond this, Flora is susceptible to larger scale changes caused by humans such as climate change, deforestation and habitat degradation.
-
-We invite you to submit a piece of work addressing an aspect of how plants change in response to their environments. Your entry can be in any format that can be received online. To be eligible, you must live in Catalonia.
-
-Formats may include:
-
-1. A written piece i.e. a short essay or a poem (up to 500 words)
-2. A video (up to 5 minutes)
-3. A piece of visual art i.e. a photograph, painting or sculpture (which must be accompanied by a title and a 100-word piece of text)
-4. A song (up to 2 minutes)
-
-Entries will be evaluated according to the originality of the artwork, evidence of research and understanding of an aspect of how plants change, as well as the creativity, clarity and effectiveness by which the idea is communicated. 
-
-The competition is open to people of all backgrounds and abilities. The prize categories  are listed below, though new categories may be added:
-
-* 10 to 15 years old
-* 16 to 18 years old
-* 19 to 35 years old
-* 36+ years old
-* CREAF staff 
-* Children of CREAF staff 
-* People’s choice 
-* Best submission by a scientist  
-* Best submission by an artist  
-
-Submissions can be in Catalan, Spanish or English and are welcome until the 6th of April 2026.
-
-A celebration evening will be held on the 18th of May (location TBC). At this event, the winners for each category will be announced, artworks will be showcased, and there will be an exclusive screening of [The Giants](https://www.thegiantsfilm.com/){target="_blank"}.
-
-![](images/border4.png)
-
-
-::: {.text-center}
 #### ![](images/flohra.png){height=40px} és un **concurs d’art i ciència** que celebra la idea que les plantes són **éssers vius dinàmics i sensibles** que estan en constant **canvi segons el seu entorn**.
 :::
 Les plantes canvien d’instant en instant i d’estació en estació, responent al tacte, a la llum, a la temperatura i a molt més. Més enllà d’això, la Flora és susceptible a canvis a major escala causats pels humans, com el canvi climàtic, la desforestació i la degradació dels hàbitats.
@@ -59,19 +23,16 @@ El concurs és obert a persones de tots els orígens i capacitats. Les categorie
 
 * De 10 a 15 anys
 * De 16 a 18 anys
-* De 19 a 35 anys
-* 36+ anys
+* De 19+ anys
 * Personal del CREAF
 * Fills i filles del personal del CREAF
 * Elecció del públic
-* Millor obra realitzada per una científica
-* Millor obra realitzada per una artista
 
 Les obres es poden presentar en català, castellà o anglès i s’acceptaran fins al 6 d’abril de 2026.
 
 Es durà a terme una vetllada de celebració el 18 de maig (lloc per confirmar). En aquest esdeveniment s’anunciaran les persones guanyadores de cada categoria, s’exhibiran les obres i hi haurà una projecció exclusiva de [The Giants](https://www.thegiantsfilm.com/){target="_blank"}.
 
-![](images/border5.png)
+![](images/border4.png)
 
 ::: {.text-center}
 #### ![](images/flohra.png){height=40px} es un **concurso de arte y ciencia** que celebra la idea de que las plantas son **seres vivos dinámicos y sensibles** que están en constante **cambio según su entorno**.
@@ -93,19 +54,49 @@ El concurso está abierto a personas de todos los orígenes y capacidades. Las c
 
 * De 10 a 15 años
 * De 16 a 18 años
-* De 19 a 35 años
-* 36+ años
+* De 19+ años
 * Personal de CREAF
 * Hijos e hijas del personal de CREAF
 * Elección del público
-* Mejor obra realizada por una científica
-* Mejor obra realizada por una artista
 
 Las obras pueden presentarse en catalán, español o inglés y se aceptarán hasta el 6 de abril de 2026.
 
 Se celebrará una velada de celebración el 18 de mayo (lugar por confirmar). En este evento se anunciarán las personas ganadoras de cada categoría, se exhibirán las obras y habrá una proyección exclusiva de [The Giants](https://www.thegiantsfilm.com/){target="_blank"}.
 
+![](images/border5.png)
+
+::: {.text-center}
+#### ![](images/flohra.png){height=40px} is an **art-science competition** celebrating the idea that plants are **dynamic and sensitive living beings** that are constantly **changing with their environment**.
+:::
+
+Plants change from instant-to-instant and season-to-season,  responding to touch, light, temperature and more. Beyond this, Flora is susceptible to larger scale changes caused by humans such as climate change, deforestation and habitat degradation.
+
+We invite you to submit a piece of work addressing an aspect of how plants change in response to their environments. Your entry can be in any format that can be received online. To be eligible, you must live in Catalonia.
+
+Formats may include:
+
+1. A written piece i.e. a short essay or a poem (up to 500 words)
+2. A video (up to 5 minutes)
+3. A piece of visual art i.e. a photograph, painting or sculpture (which must be accompanied by a title and a 100-word piece of text)
+4. A song (up to 2 minutes)
+
+Entries will be evaluated according to the originality of the artwork, evidence of research and understanding of an aspect of how plants change, as well as the creativity, clarity and effectiveness by which the idea is communicated. 
+
+The competition is open to people of all backgrounds and abilities. The prize categories  are listed below, though new categories may be added:
+
+* 10 to 15 years old
+* 16 to 18 years old
+* 19+ years old
+* CREAF staff 
+* Children of CREAF staff 
+* People’s choice
+
+Submissions can be in Catalan, Spanish or English and are welcome until the 6th of April 2026.
+
+A celebration evening will be held on the 18th of May (location TBC). At this event, the winners for each category will be announced, artworks will be showcased, and there will be an exclusive screening of [The Giants](https://www.thegiantsfilm.com/){target="_blank"}.
+
 ![](images/border4.png)
 
 ### Funding
+
 This project is funded by the European Union through a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral fellowship, 101107177—IVERdrought awarded to Kate Johnson. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or the MSCA. Neither the European Union nor the granting authority can be held responsible for them. 
