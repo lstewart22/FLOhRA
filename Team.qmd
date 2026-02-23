@@ -1,0 +1,45 @@
+---
+title: ""
+format: html
+---
+
+## ![](images/flohra.png){height=40px} Organisers 
+
+:::: {layout="[ 50, 50 ]"}
+::: {#left-column}
+#### **Kate Johnson** 
+![](images/Kate.png)
+:::
+
+::: {#right-column}
+#### **Laura Stewart** 
+![](images/Laura2.png)
+:::
+::::
+
+:::: {layout-ncol=2}
+
+::: {#left-column}
+Kate grew up in beautiful lutruwita/Tasmania, Australia with a passion for nature. After completing her university studies in plant science at the University of Tasmania Kate has worked a postdoctoral researcher in the USA, Switzerland and now in Barcelona. Kate is interested in understanding what makes plants vulnerable or resistant to climatic extremes in the context of climate change. As a [Marie Skłodowska-Curie postdoctoral researcher at CREAF](https://www.creaf.cat/en/about-us/our-people/kate-johnson){target="_blank"}, she researches how variation in characteristics within plants may be related to the ability of plants to survive drought. Kate is also an artist with deep interests in science communication and the connection between science and art. She co-manages a volunteer-run, award winning podcast and science communication platform; [That’s What I Call Science](https://thatsscience.org/){target="_blank"}, collaborates with artists and loves painting and writing poetry. 
+:::
+
+::: {#right-column}
+Laura grew up in Ibiza and the Isle of Man, surrounded by sea and countryside. After completing a Masters in environmental health protection at the University of Birmingham, Laura returned to her first home, Spain, to complete a second Masters in plant science at the Autonomous University of Barcelona. Pursuing her interest in climate change and its detrimental effect on nature, Laura became a [pre-doctoral researcher in CREAF](https://www.creaf.cat/en/about-us/our-people/laura-wynne-stewart){target="_blank"} investigating the coordination and scaling of water relations in forests under drought stress using remote sensing technologies including satellite imagery and terrestrial laser scanning. Aside from science, Laura has a deep connection with the outdoors through rock climbing, hiking and camping. She is also an avid reader and writer, enjoying writing short stories and poems with a particular focus on the climate and our place in the world. 
+:::
+
+::::
+
+## ![](images/flohra.png){height=40px} Judges 
+
+#### [**Lucette Adet**](https://www.creaf.cat/en/about-us/our-people/lucette-adet){target="_blank"}
+Lucette és una aprenenta curiosa i creativa que gaudeix explorant la ciència, la llengua i el paisatge. Té passió per entendre com funcionen les coses i trobar maneres clares i significatives de comunicar idees. La Lucette sempre cerca créixer mitjançant nous projectes, preguntes i descobriments.
+
+#### [**Chiara Sgaramella**](https://chiarasgaramella.com/ ){target="_blank"}
+Artista, activista i docent de la Universitat de Barcelona, investiga les confluències entre processos col·laboratius i art d’enfocament ecològic en el panorama contemporani. És doctora en Belles Arts i, juntament amb l’activitat acadèmica, desenvolupa projectes artístics i de mediació relacionats amb temes ecosocials.
+
+#### [**José Luis Ordóñez García**](https://www.creaf.cat/en/about-us/our-people/jose-luis-ordonez-garcia ){target="_blank"}
+Nascut a Barcelona poc abans del final de la dictadura, en José Luis ha estat beneficiari i dany colateral de totes les transicions que han marcat la seva formació. Potser per això, o potser no, ha acabat sent un alumne mediocre amb una curiositat exploradora, i aquesta dualitat li ha permès fer passes, salts i saltirons entre la biologia i les belles arts, entre la recerca i la divulgació, i entre la militància científica i l’expressió artística. Avui treballa com a tècnic de comunicació al CREAF, on va obtenir el seu doctorat en ecologia ara fa 22 anys. 
+
+## ![](images/flohra.png){height=40px} Design & Advertising
+
+#### CREAF Communications Team 
